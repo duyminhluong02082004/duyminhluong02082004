@@ -88,8 +88,7 @@ More repositories will be updated soon.
 
 ## 📫 Contact
 
-- Email: your-email-here
-- GitHub: https://github.com/your-username
+- Email: duyminhluong0208@gmail.com
 
 <p align="center">
   Thanks for visiting my profile!
